@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: Membre de l'équipe
 subtitle:
 
 content:
@@ -21,7 +21,7 @@ content:
   - Étudiants gradués
   - Administration
   - Visiteurs
-  - Anciens étudiants
+  - Anciens membres
 design:
   show_interests: false
   show_role: true
