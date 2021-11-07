@@ -7,6 +7,8 @@ Receives a Bibtex file and produces the markdown files for academic-hugo theme
 @contact: p.aristidou@ieee.org
 @date: 19-10-2017
 @version: alpha
+
+version for the electronic structure group at université de montréal
 """
 
 import bibtexparser
@@ -53,29 +55,7 @@ def month_string_to_number(string):
 # You can add the name of a co-author and their website and it will create a link on the publications website
 def get_author_link(string):
     web = {
-        'R. Ortega':'https://scholar.google.com/citations?hl=en&user=1jf5n5wAAAAJ',
-        'J. Elmirghani':'https://scholar.google.com/citations?hl=en&user=jc_S5bIAAAAJ',
-        'J. Schiffer':'https://scholar.google.com/citations?hl=en&user=Zk26WrgAAAAJ',
-        'C. Vournas':'https://scholar.google.com/citations?user=TF8e0_AAAAAJ',
-        'L. Roald': 'https://scholar.google.com/citations?user=Z-lh8_AAAAAJ',
-        'A. Dimeas': 'https://scholar.google.com/citations?user=jUEN2soAAAAJ',
-        'F. Olivier': 'https://scholar.google.com/citations?user=_pubM3wAAAAJ',
-        'P. Panciatici': 'https://scholar.google.com/citations?user=iOzCjmoAAAAJ',
-        'T. Van Cutsem': 'https://scholar.google.com/citations?user=rFDmBaIAAAAJ',
-        'G. Hug':'https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ',
-        'G. Hug-Glanzmann': 'https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ',
-        'C. Geuzaine':'https://scholar.google.com/citations?hl=en&user=D8Wumi0AAAAJ',
-        'L. Papangelis':'http://scholar.google.ch/citations?user=cZakW7oAAAAJ',
-        'D. Ernst':'https://scholar.google.com/citations?hl=en&user=91ZxYSsAAAAJ',
-        'G. Valverde':'http://scholar.google.co.uk/citations?user=Uy6MCt4AAAAJ',
-        'F. Plumier':'https://scholar.google.ch/citations?user=2tyCECYAAAAJ',
-        'D. Fabozzi':'https://scholar.google.ch/citations?user=2wog_JcAAAAJ',
-        'N. Hatziargyriou':'https://scholar.google.ch/citations?user=TL9yCsQAAAAJ',
-        'A. Ulbig':'https://scholar.google.ch/citations?user=I1eJUa0AAAAJ',
-        'S. Koch':'https://scholar.google.ch/citations?user=RllLoicAAAAJ',
-        'S. Karagiannopoulos':'https://scholar.google.com/citations?user=Tcam1KYAAAAJ',
-        'U. Markovic':'https://scholar.google.ch/citations?user=xCrtgNwAAAAJ',
-        'G. Lammert':'https://ieeexplore.ieee.org/author/37085378659'
+  
         }
 
     out = ''
