@@ -1,5 +1,5 @@
 +++
-title = "Rhodium(II)-catalyzed C–H aminations using textitN -mesyloxycarbamates: reaction pathway and by-product formation"
+title = "Rhodium(II)-catalyzed C–H aminations using N-mesyloxycarbamates: reaction pathway and by-product formation"
 date = "2019-01-01"
 authors = ["E. Azek","M. Khalifa","J. Bartholoméüs","M. Ernzerhof","H. Lebel"]
 tags = []
