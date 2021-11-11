@@ -35,6 +35,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:matthias.ernzerhof@gmail.com'
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/MatthiasErnzerhof
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,4 +56,3 @@ user_groups:
 - Members
 ---
 
-Professor in chemistry
