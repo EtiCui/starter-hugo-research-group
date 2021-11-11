@@ -60,4 +60,3 @@ user_groups:
 - Membres
 ---
 
-Professeur de chimie

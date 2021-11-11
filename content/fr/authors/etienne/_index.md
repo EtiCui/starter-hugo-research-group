@@ -15,20 +15,29 @@ role: Étudiant au doctorat
 # Organizations/Affiliations
 organizations:
 - name: Université de Montréal
-  url: ""
+  url: "https://chimie.umontreal.ca/accueil/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Étudiant au doctorat
+bio: Étudiant au doctorat en chimie computationnelle à l'Université de Montréal
 
 interests:
 - Chimie computationnelle
+- Calcul scientifique
 
 education:
   courses:
   - course: PhD en chimie
-    institution: 
+    institution: Université de Montréal
     year: 2018-
-
+  - course: Certificat en informatique appliquée
+    institution: Université de Montréal
+    year: 2018-2019
+  - course: MSc en chimie
+    institution: Université de Sherbrooke (groupe Soldera)
+    year: 2016-2018
+  - course: BSc en chimie
+    institution: Université de Sherbrooke
+    year: 2012-2015
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -60,5 +69,3 @@ email: ""
 user_groups:
 - Membres
 ---
-
-Étudiant

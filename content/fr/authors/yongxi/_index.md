@@ -51,5 +51,3 @@ email: ""
 user_groups:
 - Anciens membres
 ---
-
-Postdoc

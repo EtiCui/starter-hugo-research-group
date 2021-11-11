@@ -53,4 +53,3 @@ user_groups:
 - Anciens membres
 ---
 
-Étudiante

@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Student
+bio: PhD Student in chemistry
 
 interests:
 - Computational Chemistry
@@ -26,10 +26,18 @@ interests:
 
 education:
   courses:
-  - course: PhD Student
-    institution: 
+  - course: PhD in chemistry
+    institution: Université de Montréal
     year: 2018-
-
+  - course: Certificate in Applied Computer Science
+    institution: Université de Montréal
+    year: 2018-2019
+  - course: MSc in chemistry
+    institution: Université de Sherbrooke (Soldera group)
+    year: 2016-2018
+  - course: BSc in chemistry
+    institution: Université de Sherbrooke
+    year: 2012-2015
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -62,4 +70,3 @@ user_groups:
 - Members
 ---
 
-Student

@@ -56,4 +56,3 @@ user_groups:
 - Membres
 ---
 
-Étudiant
