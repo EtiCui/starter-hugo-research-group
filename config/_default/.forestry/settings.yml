@@ -6,12 +6,12 @@ webhook_url:
 sections:
 - type: directory
   path: content/fr
-  label: directory
+  label: fr
   create: all
   match: "**/*"
 - type: directory
   path: content/en
-  label: Pages
+  label: en
   create: all
   match: "*"
 upload_dir: config/_default/static/uploads
