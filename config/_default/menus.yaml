@@ -4,10 +4,10 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Recherche
+  - name: Research
     url: research
     weight: 20
-  - name: Équipe
+  - name: Team
     url: people
     weight: 30
   - name: Publications
