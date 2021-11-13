@@ -3,27 +3,26 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-en:
-  languageCode: en-ca
+fr:
+  languageCode: fr-ca
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content
+  contentDir: content/fr
 
 # Uncomment the lines below to configure your website in a second language.
-#en:
-#  languageCode: fr-ca
-#  contentDir: content/fr
-#  title: Groupe Ernzerhof
-#  params:
-#    description: Groupe Ernzerhof
-#  menu:
-#  
-#     main:
-#       - name: Recherche
-#         url: research
-#         weight: 20
-#       - name: Équipe
-#         url: people
-#         weight: 30
-#       - name: Publications
-#         url: publication
-#         weight: 50
+en:
+  languageCode: en-ca
+  contentDir: content/en
+  title: Ernzerhof Group
+  params:
+    description: Ernzerhof Group
+  menu:
+    main:
+      - name: Research
+        url: research
+        weight: 20
+      - name: Team
+        url: people
+        weight: 30
+      - name: Publications
+        url: publication
+        weight: 50
